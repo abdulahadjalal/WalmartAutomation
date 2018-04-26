@@ -9,7 +9,14 @@ public class Demo {
 	public void demoTest() {
 		
 		System.out.println("Welcome to the world of Maven!");
-		System.out.println("Git is very good option for development projects!");
+		
 	}
 
+	
+	@Test
+	public void demoTest2() {
+		
+		System.out.println("Welcome to the world of Maven!");
+		
+	}
 }
